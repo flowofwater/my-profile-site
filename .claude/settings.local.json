@@ -4,7 +4,12 @@
       "Bash(claude:*)",
       "Bash(npm outdated:*)",
       "Bash(sudo npm update:*)",
-      "Bash(npm update:*)"
+      "Bash(npm update:*)",
+      "WebSearch",
+      "WebFetch(domain:unsplash.com)",
+      "Bash(curl:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nApply water-metal theme and add penguin profile\n\n- Update color palette from navy to water/metal theme\n- Add water flow animations and metallic shine effects\n- Change profile name to 수금 \\(flowofwater\\)\n- Add penguin profile image with local file\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
