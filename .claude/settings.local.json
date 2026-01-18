@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude:*)",
+      "Bash(npm outdated:*)",
+      "Bash(sudo npm update:*)",
+      "Bash(npm update:*)"
+    ]
+  }
+}
